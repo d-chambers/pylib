@@ -1,0 +1,3 @@
+# Changelog for {{cookiecutter.project_slug}}
+
+{{cookiecutter.project_slug}} master # current changes on master

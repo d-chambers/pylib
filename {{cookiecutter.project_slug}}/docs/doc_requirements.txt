@@ -1,0 +1,6 @@
+# Requirements for building {{cookiecutter.project_slug}}'s documentation
+sphinx>=1.5.1
+ipykernel
+numpydoc
+sphinx_autodoc_typehints
+nbsphinx

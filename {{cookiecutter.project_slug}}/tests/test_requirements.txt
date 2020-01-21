@@ -1,0 +1,7 @@
+# Requirements for testing {{cookiecutter.project_slug}}
+pytest
+
+# flake8 extensions for code linting
+flake8
+flake8-black
+flake8-breakpoint

@@ -1,0 +1,8 @@
+{
+  "full_name": "Derrick Chambers",
+  "email": "djachambeador@gmail.com",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
+  "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+  "version": "0.0.0"
+}

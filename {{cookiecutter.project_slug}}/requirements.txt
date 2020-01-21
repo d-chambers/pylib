@@ -1,0 +1,1 @@
+# Requirements for running {{cookiecutter.project_slug}}
